@@ -1,11 +1,7 @@
-Here will come my new work:
+Main document: [Second Attempt.md](Second%20Attempt.md) - my big theory can be reduced to these two units and a principle quite easily, more or less, without needing grand innovations; so your own theory could be built if you use these theorems to verify that your coordinates work; this is infinity of new complex relations, even qualitative ones, and gold field of new theories emerging soon - a bonus by you and you.
 
-Longer, more thorough version of this Laegna classic text, in parts - separate md files.
+Original document: [Simply About Infinities](Simply%20about%20Infinities.pdf) - original document on Simple Infinities from some 3 years ago, giving you insight and my big theory.
 
-Currently, I upload only the classic version available before as well.
-
-I create new version in several Markdown files, each starting from 2nd level title; eventually, files will be compressed into new text:
-
-- This text will be *longer*, not *shorter*, and utilizes all my current experience to give basics of infinities in throughout, but readable manner.
-
-Get ready for drive :)
+Web interactive (two pages based on same task: two clones, competitors or simply different views):
+- [➿ Website / lovable](https://infinity-weave.lovable.app/)
+- [➿ Website / medo](https://app-c1jq7y32ij9d.appmedo.com/)
