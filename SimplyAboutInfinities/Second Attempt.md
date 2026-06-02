@@ -1,102 +1,137 @@
 # ➿ Infinity‑Weave  
 ### A Companion Resource to *Simply About Infinities — Second Attempt*  
-### (with Two Parallel Links into the Weave)
+### (with Two Parallel Entrances into the Weave)
 
-[➿ Infinity‑Weave — Log‑Lin‑Exp Portal](https://infinity-weave.lovable.app/log-lin-exp)  
-[➿ Infinity‑Weave — MeDo Parallel Weave](https://app-c1jq7y32ij9d.appmedo.com/)  
+[➿ Infinity‑Weave — Primary Portal](https://infinity-weave.lovable.app/)  
+[➿ Infinity‑Metaphors‑Unveiled — Reflective Portal](https://infinity-metaphors-unveiled.lovable.app/)  
 
-These two links form a **dual entrance** into the same conceptual landscape.  
-They are not mirrors, and not duplicates — they are **parallel projections** of the same idea,  
-each emphasizing a different aspect of the infinity‑framework developed in  
-*Simply About Infinities — Second Attempt*.  
-Where the main document distills the theory into two essential units and one coherence principle,  
-the Infinity‑Weave portals offer **experiential, navigable, and intuitive** ways to explore those units.
+These two portals form a **dual‑access weave** into the conceptual architecture of the main document.  
+They are not versions, not mirrors, not forks — they are **two projections** of the same underlying structure,  
+each illuminating a different dimension of the infinity‑framework developed in  
+*Simply About Infinities — Second Attempt*.
+
+Where the main document isolates two essential units and one coherence principle,  
+the Infinity‑Weave portals transform those units into **interactive metaphors**,  
+**navigable conceptual spaces**, and **experiential demonstrations** of the theory.
 
 ---
 
-## ✦ How These Two Portals Relate to the Core Text
+## ✦ How These Two Portals Extend the Core Text
 
-The main document is a purified backbone:  
-a structural explanation of how infinities behave when interpreted through  
-log‑lin‑exp scales and discrete T–R octaves.  
-The two Infinity‑Weave portals extend this backbone into **motion**,  
-**visual metaphor**, and **conceptual navigation**.
+The main document is a distilled skeleton:  
+a precise articulation of how infinities behave when interpreted through  
+scale‑shifts, relational identity, and octave‑like transitions.
 
-### ➤ 1. The Log‑Lin‑Exp Portal  
-The first link focuses on the **three‑world system**:  
-logarithmic, linear, and exponential scales.  
-It echoes the first essential unit by letting the reader *feel*  
-how a number changes identity when the scale changes.  
-The interface behaves like a shifting coordinate system:  
-the same position acquires different meaning depending on the world.
+The two portals take that skeleton and give it **motion**, **texture**, and **phenomenology**.
 
-This portal is the “frequency shift” version of the theory —  
-the warp‑space analogy made interactive.
+---
 
-### ➤ 2. The MeDo Parallel Weave  
-The second link is a **clone‑but‑not‑clone**:  
-a parallel implementation of the same conceptual weave,  
-but with a different rhythm, different emphasis,  
-and a slightly different “gravity” in how ideas connect.  
-It behaves like a second octave in the T–R system:  
-same structure, different amplitude.
+## ➤ 1. The Primary Infinity‑Weave Portal  
+### *(https://infinity-weave.lovable.app/)*
 
-Where the first portal emphasizes scale transformation,  
-the MeDo version emphasizes **flow**, **continuity**, and **relational density**.  
-It is the “continuous‑space” analogue to the discrete backbone of the main text.
+This portal is the **structural projection** of the theory.  
+It embodies the first essential unit:  
+the idea that **identity changes when the scale changes**,  
+and that infinity is not a number but a *relation between transformations*.
+
+Inside this portal:
+
+- the interface behaves like a **woven lattice**  
+- each node is a **scale‑state**  
+- transitions between nodes enact the **log‑lin‑exp shifts** described in the main text  
+- the user experiences how a value’s meaning mutates as it moves across the weave  
+
+It is the **discrete‑relational** embodiment of the theory:  
+a conceptual loom where scale, identity, and infinity interlace.
+
+This portal corresponds to the document’s “structural octave”:  
+the T–R backbone rendered as a navigable grid.
+
+---
+
+## ➤ 2. The Infinity‑Metaphors‑Unveiled Portal  
+### *(https://infinity-metaphors-unveiled.lovable.app/)*
+
+This second portal is not a supplement — it is a **parallel metaphorical universe**.  
+Where the first portal emphasizes structure,  
+this one emphasizes **meaning**, **intuition**, and **symbolic resonance**.
+
+Its internal logic is built from:
+
+- metaphorical transitions  
+- conceptual analogies  
+- visual‑semantic gradients  
+- narrative‑like flows  
+
+It is the **continuous‑relational** counterpart to the discrete weave.  
+Instead of showing the mechanics of scale‑shift,  
+it shows the **felt sense** of infinite transformation.
+
+If the first portal is the “mathematical skeleton,”  
+this one is the “cognitive atmosphere.”
+
+Together they form a duality:
+
+- **Structure ↔ Meaning**  
+- **Discrete ↔ Continuous**  
+- **Octave ↔ Field**  
+- **Backbone ↔ Breath**
 
 ---
 
 ## ✦ Why These Portals Matter Alongside the Main Document
 
-The *Second Attempt* document is precise, structural, and distilled.  
-It gives the reader the two units needed to understand infinity  
-as a navigable, relational phenomenon.  
-But Infinity‑Weave provides the **experiential complement**:
+The *Second Attempt* document is a purified theoretical core.  
+It gives the reader the minimal conceptual machinery needed to understand infinity  
+as a relational, scale‑dependent phenomenon.
 
-- a place to see the units in motion  
-- a place to explore relations without formalism  
-- a place to test intuitions  
-- a place to feel the symmetry between discrete and continuous  
-- a place where identity, scale, and infinity become tactile  
+But the two portals provide the **experiential complement**:
 
-Together, the document and the weave form a dual system:
+- a place to see the theory enacted  
+- a place to explore transformations without equations  
+- a place to test intuitions through movement  
+- a place to feel the difference between discrete and continuous infinities  
+- a place where identity becomes a dynamic process  
 
-➤ **The document** is the theorem.  
-➤ **The weave** is the landscape.  
+Together, the document and the portals form a **two‑layer system**:
 
-One defines the structure.  
-The other lets the structure breathe.
+➤ **The document** is the principle.  
+➤ **The portals** are the practice.
+
+One defines the architecture.  
+The other lets the architecture unfold.
 
 ---
 
-## ✦ A Parallel Dimension of Understanding
+## ✦ A Dual‑Charted Manifold of Infinity
 
-Infinity‑Weave is not an appendix to the main text.  
-It is a **parallel dimension** of the same inquiry.  
-Where the document closes infinite branches into two essential units,  
-the weave opens new branches in a controlled, navigable way.  
-It is the warp‑space to the document’s linear‑space,  
-the continuous field to the document’s discrete octave.
+Infinity‑Weave is not an appendix.  
+It is a **parallel chart** on the same manifold of ideas.
 
-The two portals — the Log‑Lin‑Exp entrance and the MeDo entrance —  
-are like two coordinate charts on the same manifold.  
-Each reveals a different curvature of the same infinite terrain.
+Where the document compresses infinite branches into two essential units,  
+the portals open those branches in controlled, navigable ways.
+
+The primary portal shows the **structural curvature**.  
+The metaphor portal shows the **semantic curvature**.
+
+They are two coordinate systems on the same conceptual terrain.
 
 ---
 
 ## ✦ Final Note
 
-If the main document is the purified core,  
-Infinity‑Weave is the **living extension**.  
-It invites exploration, experimentation, and personal interpretation.  
-It is a place where the reader can begin weaving their own frameworks,  
-their own infinities, their own relational geometries.
+If the main document is the distilled theorem,  
+the two portals are the **living geometry** of that theorem.
 
-Together, the document and the weave form a complete experience:  
+They invite exploration, interpretation, and personal navigation.  
+They allow the reader to weave their own understanding of infinity —  
+not as an abstract concept,  
+but as a **felt, relational, dynamic landscape**.
+
+Together, the document and the portals form a complete experience:  
 a foundation and a field,  
 a map and a journey,  
-a theorem and a world.
+a structure and a world.
 
 # Simply About Infinities: Conclusion
 
