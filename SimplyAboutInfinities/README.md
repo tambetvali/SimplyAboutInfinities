@@ -3,5 +3,5 @@ Main document: [Second Attempt.md](Second%20Attempt.md) - my big theory can be r
 Original document: [Simply About Infinities](Simply%20about%20Infinities.pdf) - original document on Simple Infinities from some 3 years ago, giving you insight and my big theory.
 
 Web interactive (two pages based on same task: two clones, competitors or simply different views):
-- [➿ Website / lovable](https://infinity-weave.lovable.app/)
-- [➿ Website / medo](https://app-c1jq7y32ij9d.appmedo.com/)
+- [➿ Website 1](https://infinity-weave.lovable.app/)
+- [➿ Website 2](https://infinity-metaphors-unveiled.lovable.app/)
