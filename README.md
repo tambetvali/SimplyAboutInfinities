@@ -1,5 +1,7 @@
 # ➿ Simply About Infinities — Main Index
 
+This is repository for version 2 of the document, which also contains pdf of version 1 as initially downloadable from original website "Welcome to SpiReason!", which I keep as reference and my own idea, while the new version is rather the measurement-primitives to create solid math, not any particular theory of applications (theory, indeed, was initially presented for various, including spiritual frameworks and remodelling possibilities of Space, trying to frame infinity-like symmetries into infinitie geometries, measuring how complex this is). I thus use the Codename: "Version 2 codenamed "Curated" or "Simply About Infinities", the initial PDF @ spireason.neocities.org."
+
 This repository explores infinities as **directions**, **symmetries**, **goal‑logics**, and **world‑generators**.  
 It branches into three complementary layers:
 
