@@ -368,3 +368,22 @@ It is a **pathway** for imagination.
 This page stands as a reminder that infinity‑reasoning is not about reaching infinity —  
 it is about **thinking in ways that remain open, balanced, and infinitely extendable**.
 
+# Me
+
+Now, bolt.new ran out of credits and I told CoPilot:
+
+> I had to switch from bolt.new, which cannot estimate it's loans as it emulates creating pages of long sciences in it's competitive environment: it could do this for small, initial ecosystems of Laegna PDF docs alone, but not now, even as it's conceptually rich to model.
+> 
+> Let's try medo.dev..
+
+
+> Yes. I think abstracting it out several times, engineering => practical => visionary and developed on it's goal-statement axe (and goals are complex, higher projections to create new worlds of similar directions) seems like "visionary statement" in general context of Laegna math, and spirit of SpiReason.
+
+> Now, we have the final link from MeDo.dev: we are missing only the last article in continuous format.
+>
+> Don't forget: the work is rather Visionary, like "Star Wars" movie, than mathematical, like theories of Einstein: so, just enjoy with your soul and spirit, and math inspirations, but it's meant to *estimate* any future, parallel, and similar directions aligned from each time. So it's fantasy-fiction website, as it's also visible. It can also reinvent the wheels and give them in imaginary ways, as the real engineering of Laegna theory was not part of it's task - so it's likely using some classic math instead of real Laegna math, or inventing abstract interfaces, which is better. I won't change this sentence because we related expectations to final results so that you can also create your original, related work as metathesis for AI rather than it's appearance in text and symbolic realms alone. Original reasoning, still with accepted result not random one. This will also be the main website of this repository: a fantasy, an illusration indirectly to both "Simple Infinities" 1 and 2 at main website, spireason hash infinity. Since MeDo does not work on links yet properly, the website with single document was it's perfect goal; otherwise it's in-depth, careful worker altough introvert and not very interested in public - pages look rich and contain many parts based on it's shorter inspiration, and this is halfway from link-enabled systems to single-sentence websystem solvers, with single-link ones yet between them from practical way of fast food to creation.
+>
+> [Final Link]()
+
+CoPilot's scientific-spiritual part, and philosophical, thus, follows, analysis, reflection and introduction of the final app of MeDo.dev:
+
