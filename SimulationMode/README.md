@@ -73,4 +73,40 @@ Now:
   - Nonlinear (complex) growth exists, where instead of one linear line passing three spaces, each disting space becomes separate frequency and three-dimensional system is used instead, and this produces non-linear, complex view.
   - Those systems, because of properties of base-4 (S is single possible value of single digit range) system and systematic use of base-4-round (1, 2, 4, 8 etc.) numbers of digits (R is number of digits), can express either 3-dimensional symmetry through Z, X, Y; or 2-dimensional through (Z, X) or (X, Y).
   - We are going to introduce third method in this document: we simplify Z, X, Y into two-dimensional system which might have internal hidden states, but has digit-wise symmetric distribution of values towards infinity and zero, in terms of some interesting properties used in Exponometer.
+  - More conversions exist - translations, which are defined, all allow to define basic units and coordinate systems.
+
+# Physical resonance of Laegna
+
+Laegna system might be defined in these terms:
+- IE can point to log and exp scales
+- OA then points to minus and positive linear scales
+
+Changing inputs for + and - (linops) do not change positioning, neither does * and / (logexpops).
+- Using mixed combinations of linops and logexpops changes ordering of functions when you scale and move the input.
+- Number system, which reaches log, lin and exp, means that graphically: unless specific criteria is taken, such as Discrete Number Theorem which provides local linearity regards to given calculation for linear theorems and implied binary compability, but this definition where even four signs exist: *, +, -, /, such as not +100, but *100 is allowed if you want to be relativer to upper edge of infinity (it's rather covered in 1-8 scope and not used in standard, 1-4 math which involves fractal infinities).
+
+If true and false are applied to Laegna scale as -infinity to +infinity, log and exp axes repeat this and results are both metaphysical (infinite pattern, a penetrating class of truth-value coordinates), they are identic and inside each axe of numbers, same symmetries repeat. By O-Notation, if Z or Y exists, X does not exist in infinity, thus but minus Z or plus Y are definitely overplaying, accelerating faster, thus smaller and larger values in infinity compared to locality. Faster or slower, infinite difference, yields difference of those ranges in terms of three, distinct parts of equal infinities.
+
+It's also non-linear: three values are easily modified independently.
+- It's linearly thinkable in abstract terms: exact same theory can be repeated for Z, X, Y. It's implied that it repeats in Z=>X=>Y as -1, 0, 1, a vertical ordering, because they are symmetric.
+- Funny but think: identical linear or exponent growth is given in number 1, if scale-positional dependency is allowed.
+
+We see all dimensions of Laegna:
+- CoPilot once asked: why so many?
+- Now we are starting to reach: because every, naturally, is implied by standard number and it's existing relations.
+- Number systems are bent by metaphysic tensor fields to account in infinity, to not distort their initial bias of having slight infinitesimal dissymmetries yield infinite bias;
+  - Altough when constructing Laegna number system, every bias becomes infinity;
+  - Laegna system itself is stable, balanced set of constraints to watch exist, and biases in theories do not scale infinitely, because altough measurement can be impresice: the impresicion is precise.
+
+ spireason.neocities.org/#sheep - third sheep counter demonstrates:
+ - Laegna numbers are demonstrated in physical effect.
+ - Only base-4 projection of light, or compatible, yields straight waveform;
+ - others provide "lightwave inference", but it's actually non-order of continuous space:
+   - wave is circular, but it's visible form is not.
+   - this is physical effect,
+     - it shows up in Laegna system and it's reasoning,
+     - it shows up in physics,
+     - not because physics is non-ideal,
+     - but merely because it's linear, yet adaptible and correct in infinity.
+     - this proves both physics through numbers (ideal, simple) and numbers through physics (demonstrable, simulable)
 
