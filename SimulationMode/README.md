@@ -110,3 +110,87 @@ We see all dimensions of Laegna:
      - but merely because it's linear, yet adaptible and correct in infinity.
      - this proves both physics through numbers (ideal, simple) and numbers through physics (demonstrable, simulable)
 
+# Z, X, Y => R, T
+
+## Introduction: three rules of number magic
+
+As in Exponometer: R is Space, T is Time. Exponometer uses value for Space, turning all the algorithm in normal AI in sense of it's vectors, matrices, and their types and dependent types, from Real to Complex number, with Real and Imaginary part - as the Real part in my sense is what exists in Real number, the Imaginary part is the added number.
+
+Real number - X
+
+Imaginary number - Z, Y
+
+In infinity symmetrics, we meet this:
+- I is first half of negative numbers, in log space already - countable *from down*
+- O is second half of negative numbers - countable *from up*
+- A is first half of positive numbers - countable *from down*
+- E is second half of positive numbers, in exp space already - countable *from up*
+
+Thus:
+- X is countable "from beginning"
+- Z and Y are countable "from end"
+- From the symmetry: 1:2 symmetry is equal to octave symmetry based on Laegna Number Theory, not it's Arithmetics or Calculus; they just digit-wise repeat the exact digit positional values, if Laegna hologram-fractal based number system is used. Difference from decimals seems very small - shift by 1 digit, removal of fractal shape non-symmetry -; it's doable and explainable in few sentences for one who listens; still it's not really so small change: decimal number system, the same way, can defined in a few sentences if one understands the complex math - easily self-dependent, but alternatives of theories can have more abstract and general basis with same axioms, so we can kind of define decimal system in two sentence, then apply patch or change also in two sentences, and arrive either Laegna-compatible system or Laegna system. This definition does not necessarily contain graphical images and sounds for each value, which can be contained in 2 cm * 2 cm paper and 10 second tape. This would be very advanced and compressed introduction, but in this scope one can see - altough defined by kind of two base rules of base-4 system, the changes of Laegna system make it *qualitatively* different from base-n.
+  - For base-4 systems: spireason.neocities.org/#sheep, third counter of more advanced math, demonstrates that base-4 system is inference-symmetric. This is based on: base-2 system provides natural base-2 logarithms and exponents in meaningful space, base 4 is base 2 of 2nd degree (2 times 2, 2 + 2, funnily just many 2 to 2 relations and 2 to 2, itself, has 2 components: 2 in power 2; self-recursive was necessary, also the linear-logarithm-exponent recursivity of base units 0, 1, 2, 4 and more, because the whole system maps hologram and fractal levels based on identical symmetries).
+  - 2 2 symmetry repeats as 0 0 and infinity infinity symmetries in regards to many relations.
+  - This makes Laegna Number System rudimentary, robust and small: efficient, elegant and simple.
+
+It is not meant to replace decimal system:
+- For indexing and counting, decimal system has most efficient number of digits and systemic display.
+- For lightwave inference, long term thinking, beyond-binary logic, infinity symmetries such as zero etc.: for many fields, Laegna notation is not just efficient display, but such values in such space naturally behave good, as Sheep Counter 3 demonstrates: do not forget, it's not single theorem which makes lightwaves symmetric and circular in demonstration, but it's every applicable theorem which won't remove such result, and in real conditions it's hard to say what "produces" the result (especially in work of genius like me): rather, given every detail the result exists.
+  - This "genius rule" or "real-life rule", how you want to take it (you might need similar results without being a genius more than "today in this essential condition", such as creator for Anthem of France - "one night genius", a capable situation and lifetime award for many more people than those, who keep it going as wheel, some creation and attention and IQ and all these xQ's included in standard package with guarantees); finally it yields: in documentation of Laegna, *different axiomatic sets* prove the same notation, *even with different meaning*, but *not different basic symmetries* - even if exact symmetries are not followed, Laegna number is not fragile: if you add or remove a bit, change some rules, there are so many symmetries that it survives in infinity, for example you introduce intentional mistake, but you must express it in math and thus - it can be measured; as it's measured, the resulting number does not contain butterfly effect like any random environment for infinity calculations.
+  - For example: simulate decimal base-10 system in Laegna base-4, but base-4 gives exact values for any degree the wave is not circular and rhythmic, and by this deviation the number is not lost.
+  - Digitwise: if digits are not exact and symmetric, inference noise which appears in non-circular number spaces, introduce growing error both locally and globally.
+
+Last magic to do it:
+
+- Look at R: digitwise length of Laegna number.
+- Look at T: it's value.
+- You cannot change one, without passing rhythmic, measurable base symmetries with another;
+  - That rhythmic thing is closed loop: well with infinities you can do lots of magic, but somewhere behind the scenes it's still a simple, closed loop :)
+  - This loop extends randomly in any direction.
+
+Now, what happens in infinities:
+ - Calculation, because of R & T (magnitude-direction) complex, is not linear.
+ - It's not linear, but it's kind of *funny*, the *magic illusion finally explained now*: because of exactly symmetric steps, however big indirect circles you make, they fall together in single points; you count and inside - it counts kind of up and down, left and right -, but the iteration + rules means that it's *absolutely consistent with linear model of measurement*.
+
+Finally:
+- Infinity and below-zero are counted from upwards, and uncountable from downwards.
+- Minus infinity and above-zero are counted from downwards, and uncountable from upwards.
+
+This is the first octave symmetry:
+- Directions are symmetric, thus *thermodynamic balance exists in terms of counting money and comparing*; thus, octave-wide shift yields repetition of pattern.
+- Centers of both minus and plus axe are *external*: the numbers there cannot be counted, so from infinity to middle way it's countable from upwards, then comes one uncountable point which is actually infinitely large, but it is single point thus it has boundary value, and finally as you go towards zero it's now countable from downwards. It means you cannot count directly up, but you count down and then add an octave (switch measurement scale to exp, which yields equivalent infinity number and guarantees all digits equal - all digits equal is third magic effect, that as you state theorems, later add compatible theorems, they fit in place as in standard math and logic: altough it's based on unknowns, you do not apply transformations to resolve unknowns, but the value patterns fit and just adding a theorem works like in normal logic and math: if there are no contradictions, you do not need to change what is already known or it's perspective or representation).
+
+## Applicance: Z, X, Y => R, T
+
+Now, as Z and Y map:
+- If X is seen single-linear, Z and Y together are two-linear system.
+- Yet, X and Y map: they exist in same coordinate system and can cancel each others out.
+  - We reach, in Exponometer method, into one average of Z and Y, which is called R, and to keep it compatible, we map X to T without changing it.
+
+Now, what we got:
+- R maps to octave or integral level, positively counted equal to integral order: digits which go upwards. We want to simulate this in up-down dimension.
+- T maps to digit position, hologram layer in Laegna number wheel.
+
+We add now another Z, X, Y:
+- We show how same symmetries of R and T space, with one pair of R and T inside each Z, X, Y, happen:
+  - Altough externally mapped to log, lin or exp scale, the number precision, scale and domain inside each of Z, X, Y is the same format and thus, each relation exists.
+  - In some mappings, they have equal power: 0 in Z, X, Y is either logarithm, linear or exponent which is leave them standing still value when added to others or subtracted, and it still turns any number to zero locally when multiplied. In each Z, X, Y in this updated system of R and T: positive and negative numbers exist.
+    - In some systems, especially if only I, O, A, E and not Z, X, Y are used in resulting space - I and O are always smaller, A and E always bigger than zero altough able to map infinities.
+      - In Z, X, Y, we can show that in regards to log and exp, insufficient exponent or logarithm converts to minus, and sufficient one to plus - exact logarithm values in log extern, linear values in lin extern, exp values in lin extern: meaning internally each is linear, 45 degree growth produces the growth function and if this is met, the thing remains (loss minimized at Z, stability kept at X, gain maximized at Y - positive log, lin and exp domains).
+
+Log, in this sense:
+- Can be remap of Exp to negative number infinity.
+- Exp follows in positive infinity.
+- This loses half of precision of Z and Y, where values of Z and Y balance each other, raises R to power two if T is seen as in power one of infinity,
+  - But does not lose essential quality: because Z and Y are symmetric, calculating the balanced value of both does not lose immediate precision and can be compensated by doubled precision.
+  - X is not symmetric and thus, it's dimension is not melted,
+    - But rather R and T values can be averaged and this is important criteria.
+
+The last rule:
+- Actually, Z and Y often seem like 2 times more subtle and information-rich than X.
+- R, then is two times more rough than T.
+- 1 * 2 and 1 / 2 which appear (Z, X, Y: X to ZY is 1*2; R and T symmetry: R to T is 2 times richer, so T appears as two times longer for same content) have this property:
+  - Both, actually, have clocktick rate of 2 and can be synchronized perfectly.
+    - This is the last proof: you do various, random and uninitiated things with numbers, but you cannot avoid 1/2=>2/1 synchronicity so the digits, always fall precisely on other digits;
+      - So the exactness-criticalness of near-zero, and infinite self-reflecting bias near infinity, are gone because they are *precisely same*, not *close enough* which would be immediately lost.
