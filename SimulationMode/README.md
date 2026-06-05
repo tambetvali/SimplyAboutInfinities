@@ -13,6 +13,53 @@ It will be contained here: https://github.com/tambetvali/SimplyAboutInfinities r
   - This is not infinity of numbers: but every local relations parallel to infinity location when brought to 1 octave up.
   - We do not use separate infinity numbers, but for example 1 octave up at Y, the exp scale - they already *are* that. So it's not a notation, but affine translation through exponent.
 
+# Simulation definition
+
+This is infinity definition, altough number listings contain their discrete values.
+
+On left, it could have four signs:
+- **\*** - counting from largest, from infinity down - not reversing the numbers but leaving them as-is, but knowing that the *anchor* or *basis* is upwards, at the number infinity-
+- **+** - counting from smallest, from zero up
+- **-** - counting from minus "largest", from zero down
+- **/** - counting from minus "smallest", from minus infinity up (not O which is -1, but minus infinite number would mean minus infinity - from that direction, they are countable, but from zero down the second zone is uncountable)
+
+In center, there are two systems:
+- R at axe Y (vertical dimension of number, log-lin-exp *scalar*): upwards, the system becomes more accelerative; in the middle it's linear and downwards it's logarithmic. We can implement it this way in our simulation: With R=1, if T=7 then integral 1 of T is 7; with R=0, still T=7, integral 0 would be 7.
+- T at axe Y (horizontal dimenion of number, inside given log/lin/exp R, T is the *local value of this scale*): rightwards, the system becomes bigger, and leftwards smaller on linear scope.
+
+If R and T system is at octave 1:
+- R is integral level, if minus then minus differential level, and the function shape is changing when you change R - ordering is changing.
+- T is linear content, moved by R to this integral level.
+
+This R and T system, if you take it octave down - every operation and component -; the new system reflects the same data in one integral level down, or this also means differential level up:
+- R is frequency
+- T is value
+
+It's also possible to create Z, X, Y mapping of this:
+- Z is value
+- X is frequency
+- Y is octave
+
+Exists system R = X and T = Z, the lower system.
+
+Exists system R = Y and T = X, the higher system.
+
+This is perfectly valid in Laegna, and Z, X, Y are often simplified to smaller, more compressed yet simpler, and binary format of two R & T systems. Often, they are also simplified to one R & T system, using X as T and reducing dimensionality of Z, Y from 2 to 1, so that R=ZY.
+
+Like color picker, R=Y (down to up - downwards smaller, upwards larger numbers), T=X (left to right - leftwards smaller, and rightwards larger numbers):
+- In center two-dimensional number picker appears.
+- Going downwards, more but smaller multidigit numbers appear (64, 256 choices); going upwards, less but bigger numbers appear (4, 16 choices). Choices are not points, but slices - for example, range 4 of one-digit number (R=I) has one number containing whole 64 four-digit numbers (R=E).
+- Infinity projects from Whole=>Downwards like hologram, thus same infinity projected with more numbers still has same length - if they would be finite ranges, R=I would be itself 1/64th of R=4, but infinity counts from outwards and R=1 is spatially as large as R=4.
+  - Infinities do not grow quantitatively, but qualitatively - higher-precision infinity can resolve games and combinatorics to higher degree, producing higher levels of equilibrum - and in Laegna, equilibrum is exponent of energy, directly and simply if you imply it all to the end.
+
+Color picker then contains the "finite" - the linear range from R = I to E and T = one of choices at that R. This is compatible with Sheep Counters, and number listing files given in this SimplyAboutInfinities project and repo contain exactly this selection of whole numbers; they also contain boundary cases - two limits towards zero, two limits towards infinity, in additional letter multiplied by digit count of R (for example unsigned +0 is W - only in this standard system -, but then with R=4, same-precision +0 for 4-digit numbers is "W"*4="WWWW", where W=+0 and it's length 4 means that it's zero at precision 4, for example it might not be zero at higher precision, but four-precision zero is typically and by base conventions, certantly zero also with precision less than four).
+- Laegna sees boundary zero in it's ideal value is almost unachievable - solving equations to infinite precision, matching exact, final zero has *virtually* exact, final zero probability in a sense - so the number is rather captured metaphysically and Laegna sees zero in metaphysical request rather than random probability - it expects random, zerolike numbers to start behaving like + or -, like +0 and -0, over time, becoming somewhat "binary". This long reasoning means Laegna number systems do contain boundaries, but not as part of ordinal system of whole numbers and slices - rather, as part of "idealizations", and here even not so ideal because they are separated by precision. This zero-probability of being near-zero is divided to +1 and -1, 0\*0.5\*100% both. Zero, after all, is not just nothing: it's an idea. So even half zeroes could make your day. Second, infinitesimal is defined based on two digits and not one - two digits one right after another are seen as having *point* *in between of them*, not both being point - altough the point is one digit wide. This is an effect is Laegna numbers are used as point-accelerated numbers, only possible asset in real math, but not in ideal symmetry math. Then, most typically: the smallest point of numbers starting at positive scale, is equal to of last smallest point on negative scale, symbolically equal in every considered attempt, but their *acceleration-direction* is different.
+  - Last rule example: 1 plus +0 is exactly 1, but in accelerating direction - infinitely multiplying this number by itself and the result by original number grows it to 2 in one infinity.
+  - Second example: 1 minus +0, which equals 1 plus -0, is exactly 1, but this is deccelerating direction - infinitely multiplying this as well with series of itself, now leads to 0.
+  - This 0, 1, 2 symmetry is one way to show it's most important symmetry, the one between growth and shrink.
+
+Finally, Z, X, Y contain [Octave](https://github.com/tambetvali/SimplyAboutInfinities/blob/main/SimplyAboutInfinities/Second%20Attempt.md#-1-the-three-worlds). It could be smoothly changing, but basically it moves the octave up or down. In octave Y, the value we give at RT "color picker" will be exponentiated; in octave X it remains linear; and in octave Z we project it through logarithm scale. We can see how same number relations repeat in each scale.
+
 # Verbose data
 
 This is a bunch of verbose initial data.
