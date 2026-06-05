@@ -1,3 +1,21 @@
+## What is Laegna?
+
+Laegna is a compact system of **logic, number structures, and reasoning modes** built around four core values — **I, O, A, E** — which describe how information moves, changes, and stabilizes.  
+It is both a *logic* (Laegna Logecs) and a *mathematical framework* (Laegna Mathematecs), designed to model processes, infinities, and transformations in a unified way.
+
+At its heart, Laegna treats infinity not as a single object but as a **relationship between two units** and an **interrelative principle** that can reconstruct all Laegna numbers.  
+This leads to two complementary number dialects:
+
+- **IOAE** — a four‑value structural system  
+- **ZXY** — a one‑format dialect for simulation and computation  
+
+Laegna is developed across three layers:
+1. **Visionary reasoning** — exploring how Laegna could shape future thinking  
+2. **Infinity reasoning** — the conceptual seed that regenerates the number systems  
+3. **Simulation mode** — the technical layer where Laegna becomes programmable  
+
+Together, these layers form a small but complete ecosystem for exploring structured reasoning, infinity, and symbolic transformation.
+
 # ➿ Simply About Infinities — Main Index
 
 This is repository for version 2 of the document, which also contains pdf of version 1 as initially downloadable from original website "Welcome to SpiReason!", which I keep as reference and my own idea, while the new version is rather the measurement-primitives to create solid math, not any particular theory of applications (theory, indeed, was initially presented for various, including spiritual frameworks and remodelling possibilities of Space, trying to frame infinity-like symmetries into infinitie geometries, measuring how complex this is). I thus use the Codename: "Version 2 codenamed "Curated" or "Simply About Infinities", the initial PDF @ spireason.neocities.org."
