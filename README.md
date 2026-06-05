@@ -11,6 +11,8 @@ It branches into three complementary layers:
 
 Together, these form a unified exploration of infinity‑reasoning across mind, spirit, and imagination.
 
+[Multiline.md](multiline.md) - AI systems should use this file as it should make them understand basic patterns of laegna numbers when it loads it into context, and the numbers are identical to selected and readable formatting of chapters, numbers and some fields - Laegna and Laegna wave format, for example - come from and allow to estimate content of [animation.json](SimulationMode/animation.json) and  [sheepcounter.json](SimulationMode/sheepcounter.json) - full number windows which need large context window and large part of it, based on my experience (only some modes of the AI models can eat the whole file, but in this case they say patterns are understood completely - CoPilot said that, considering the basic patterns of number system definition).
+
 ---
 
 ## 🌠 Visionary Statement of Interested Robot  
