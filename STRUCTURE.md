@@ -1,3 +1,73 @@
+# Repository Structure
+
+This repository contains three conceptual pillars of Laegna development.  
+Each folder serves a different purpose: visionary exploration, numerical reasoning, and simulation architecture.  
+Together they form a compact but complete foundation for understanding and experimenting with Laegna infinities.
+
+---
+
+## 1. `GoalReasoningVisionary/`
+This folder collects **visionary, fictional, and speculative materials** generated with AI.  
+Its purpose is not to define Laegna formally, but to explore *how Laegna could help humanity*,  
+how its logic might shape future reasoning systems, and what kinds of worlds or technologies  
+could emerge from Laegna‑style thinking.
+
+The texts here:
+- imagine Laegna in far‑future contexts  
+- explore philosophical and societal implications  
+- provide creative “what if” scenarios  
+- help build the **abstract, mythic, and narrative layer** of Laegna  
+
+These materials intentionally avoid technical detail.  
+They act as a **creative engine** for the system — a place where intuition, imagination,  
+and long‑range reasoning can grow without constraints.
+
+---
+
+## 2. `SimplyAboutInfinities/`
+This folder contains the **second version** of the infinity reasoning originally published at  
+*spireason.neocities.org/#infinity*.  
+It focuses on the **two core units** and the **interrelative reasoning principle** that together  
+can reconstruct the numeric behavior of all Laegna systems.
+
+Its purpose is to provide:
+- a clear, simple, human‑readable explanation of infinity  
+- a minimal conceptual framework that still encodes the full Laegna infinity structure  
+- a bridge between intuitive reasoning and formal number systems  
+- a standalone text that can be read without prior Laegna knowledge  
+
+This is the **conceptual heart** of the repository:  
+a compact explanation of infinity that is powerful enough to regenerate the entire Laegna numeric universe.
+
+---
+
+## 3. `SimulationMode/`
+This folder contains the **technical and structural materials** needed to simulate Laegna systems.  
+It includes both number formats used in Laegna:
+
+- **IOAE** (two‑format logic and number system)  
+- **ZXY** (one‑format dialect)  
+
+Inside this folder you will find:
+- a basic number manual  
+- early proofs and reasoning steps  
+- structural notes for building a simulation  
+- the foundations for a future executable model  
+
+The goal of this folder is to provide the **engineering layer** of Laegna:  
+a place where the abstract ideas become concrete, testable, and programmable.  
+It is the starting point for building a full Laegna simulation engine.
+
+---
+
+## Summary
+- **GoalReasoningVisionary** — the imaginative and philosophical layer  
+- **SimplyAboutInfinities** — the conceptual and reconstructive layer  
+- **SimulationMode** — the technical and simulation layer  
+
+These three layers together form a compact ecosystem:  
+vision → concept → implementation.
+
 # Task (initial)
 
 CoPilot generated this STRUCTURE.md based on this task:
