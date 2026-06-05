@@ -8,7 +8,16 @@ The simulation mode will be (or already is at time of reading if not changed) fi
 
 It will be contained here: https://github.com/tambetvali/SimplyAboutInfinities repository, "SimulationMode" to understand Laegna based on journey into infinity.
 
-# Number Data files
+[sheepcounter.json](sheepcounter.json), [animation.json](animation.json) and [octaves.json](octaves.json) are small number listings with metadata:
+- Numbers with R=-inf..inf and T=-inf..inf are there symbolically: because 1..4 equals I..E equals, symbolically, -inf..inf (the whole infinity in scopes and directions).
+  - This is not infinity of numbers: but every local relations parallel to infinity location when brought to 1 octave up.
+  - We do not use separate infinity numbers, but for example 1 octave up at Y, the exp scale - they already *are* that. So it's not a notation, but affine translation through exponent.
+
+# Verbose data
+
+This is a bunch of verbose initial data.
+
+## Number Data files
 
 Basic Laegna numbers, compatible for lower math:
 
@@ -75,7 +84,7 @@ Now:
   - We are going to introduce third method in this document: we simplify Z, X, Y into two-dimensional system which might have internal hidden states, but has digit-wise symmetric distribution of values towards infinity and zero, in terms of some interesting properties used in Exponometer.
   - More conversions exist - translations, which are defined, all allow to define basic units and coordinate systems.
 
-# Physical resonance of Laegna
+## Physical resonance of Laegna
 
 Laegna system might be defined in these terms:
 - IE can point to log and exp scales
@@ -110,9 +119,9 @@ We see all dimensions of Laegna:
      - but merely because it's linear, yet adaptible and correct in infinity.
      - this proves both physics through numbers (ideal, simple) and numbers through physics (demonstrable, simulable)
 
-# Z, X, Y => R, T
+## Z, X, Y => R, T
 
-## Introduction: three rules of number magic
+### Introduction: three rules of number magic
 
 As in Exponometer: R is Space, T is Time. Exponometer uses value for Space, turning all the algorithm in normal AI in sense of it's vectors, matrices, and their types and dependent types, from Real to Complex number, with Real and Imaginary part - as the Real part in my sense is what exists in Real number, the Imaginary part is the added number.
 
@@ -161,7 +170,7 @@ This is the first octave symmetry:
 - Directions are symmetric, thus *thermodynamic balance exists in terms of counting money and comparing*; thus, octave-wide shift yields repetition of pattern.
 - Centers of both minus and plus axe are *external*: the numbers there cannot be counted, so from infinity to middle way it's countable from upwards, then comes one uncountable point which is actually infinitely large, but it is single point thus it has boundary value, and finally as you go towards zero it's now countable from downwards. It means you cannot count directly up, but you count down and then add an octave (switch measurement scale to exp, which yields equivalent infinity number and guarantees all digits equal - all digits equal is third magic effect, that as you state theorems, later add compatible theorems, they fit in place as in standard math and logic: altough it's based on unknowns, you do not apply transformations to resolve unknowns, but the value patterns fit and just adding a theorem works like in normal logic and math: if there are no contradictions, you do not need to change what is already known or it's perspective or representation).
 
-## Applicance: Z, X, Y => R, T
+### Applicance: Z, X, Y => R, T
 
 Now, as Z and Y map:
 - If X is seen single-linear, Z and Y together are two-linear system.
