@@ -250,3 +250,37 @@ The last rule:
   - Both, actually, have clocktick rate of 2 and can be synchronized perfectly.
     - This is the last proof: you do various, random and uninitiated things with numbers, but you cannot avoid 1/2=>2/1 synchronicity so the digits, always fall precisely on other digits;
       - So the exactness-criticalness of near-zero, and infinite self-reflecting bias near infinity, are gone because they are *precisely same*, not *close enough* which would be immediately lost.
+
+# Letter positioning
+
+Because "left" and "right" given in this document were interpreted wrongly (they were meant as left and right hand of the user), here is how to position letters:
+
+If IOAE are capital, and ioae not present, IOAE=1234:
+
+> #E#
+> O#A
+> #I#
+
+If ioaeIOAE are present, they can mean 12345678 in which case smaller letters are smaller:
+
+> AeE
+> o#a
+> IiO
+
+If IOAEioae are present, they can also mean 12345678 in this order starting from big letters; this is used either to keep IOAE digit values constant in some contexts:
+
+> aEe
+> O#A
+> iIo
+
+For simulations, AI method to use IOAE for 1234, then abstract symbols for meanings of 5678 is good, but it should play well enough with ordering.
+
+Alternative, correct order:
+
+> #A#
+> I#E
+> #O#
+
+This corrective order is called to "go left", while the three orders before, all "go up". You can also say E goes left or up.
+
+This hint should be considered when positioning and interpreting letters. This simulation mainly interprets IOAE use alone, as 1234, so using math symbols for 5678 can be clearer and more associated with what we know about math.
