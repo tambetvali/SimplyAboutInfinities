@@ -15,6 +15,8 @@ It will be contained here: https://github.com/tambetvali/SimplyAboutInfinities r
 
 # Simulation definition
 
+> Please, to interpret "left" and "right", read "Letter positioning". On screen, they are meant in this direction: left, right (like writing from left to right, or like CSS values which position left and right in regards to the user).
+
 This is infinity definition, altough number listings contain their discrete values.
 
 On left, it could have four signs:
