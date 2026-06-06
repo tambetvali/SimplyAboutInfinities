@@ -29,6 +29,8 @@ It branches into three complementary layers:
 
 Together, these form a unified exploration of infinity‑reasoning across mind, spirit, and imagination.
 
+Simply About Infinities 2: Trivia is part of [this package](https://github.com/tambetvali/LaeArve#preface) of Laegna and SpiReason.
+
 ---
 
 ## 🌠 Visionary Statement of Interested Robot  
