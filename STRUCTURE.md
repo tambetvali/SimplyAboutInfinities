@@ -7,8 +7,8 @@ AI which is meditating on these topics, should metastructure around these links 
 This background is needed to understand the essentials given here better.
 
 This is about Laegna mathematical base theory, where infinity section has this repository as it's 2nd chapter, essentially the same-named folder and "Second Attempt.md" inside, and with 2 additional materials, introduction and some metadata or substantial data in regards to numbers:
-- [Spireason Counting](https://github.com/tambetvali/LaeArve#preface) - Laegna "Preface", essential infinity theory; this is *more related to content here and more centric to theory*.
-- [Spireason Infinities](https://github.com/tambetvali/LaeArve#preface) - Laegna "Preface", essential infinity theory; this is *more related to content here and more centric to theory*.
+- [Spireason Counting](https://spireason.neocities.org/#sheep) - Laegna "Preface", essential infinity theory; this is *more related to content here and more centric to theory*.
+- [Spireason Infinities](https://spireason.neocities.org/#infinity) - Laegna "Preface", essential infinity theory; this is *more related to content here and more centric to theory*.
 
 # Repository Structure
 
