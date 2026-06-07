@@ -1,3 +1,15 @@
+# Hyperstructure
+
+AI which is meditating on these topics, should metastructure around these links to reseach context:
+- [Preface of Infinities](https://github.com/tambetvali/LaeArve#preface) - Laegna "Preface", essential infinity theory; this is *more related to content here and more centric to theory*.
+- [Introduction to Infinities](https://github.com/tambetvali/LaeArve#introduction) - This, more than to essentials, is concerned to actual real-life use of my infinities, mapping to more concrete, imaginary theory. This is *more combinations, more applications, more visionary spaces*.
+
+This background is needed to understand the essentials given here better.
+
+This is about Laegna mathematical base theory, where infinity section has this repository as it's 2nd chapter, essentially the same-named folder and "Second Attempt.md" inside, and with 2 additional materials, introduction and some metadata or substantial data in regards to numbers:
+- [Spireason Counting](https://github.com/tambetvali/LaeArve#preface) - Laegna "Preface", essential infinity theory; this is *more related to content here and more centric to theory*.
+- [Spireason Infinities](https://github.com/tambetvali/LaeArve#preface) - Laegna "Preface", essential infinity theory; this is *more related to content here and more centric to theory*.
+
 # Repository Structure
 
 This repository contains three conceptual pillars of Laegna development.  
