@@ -1,5 +1,7 @@
 ## Laegna Infinity Axiomatic System — Unit 1 (Transformational Units)
 
+![Laegna Infinity Axiomatic System — Transformational Units](laegna_axiom_unit1.png)
+
 ```
 ![Laegna Infinity Axiomatic System — Transformational Units](Images/laegna_axiom_unit1.png)
 ```
@@ -46,6 +48,8 @@ through which infinity expresses itself differently.
 
 ## Laegna Infinity Axiomatic System — Unit 2 (Discrete Infinities)
 
+![Laegna Infinity Axiomatic System — Discrete Infinities](laegna_axiom_unit2.png)
+
 ```
 ![Laegna Infinity Axiomatic System — Discrete Infinities](Images/laegna_axiom_unit2.png)
 ```
@@ -91,6 +95,8 @@ octave relationships.
 
 ## Laegna Infinity Axiomatic System — Coherence Hint (Relational Infinity)
 
+![Laegna Infinity Axiomatic System — Relational Infinity](laegna_axiom_coherence.png)
+
 ```
 ![Laegna Infinity Axiomatic System — Relational Infinity](Images/laegna_axiom_coherence.png)
 ```
@@ -130,6 +136,16 @@ transformational units and discrete infinities into a unified system.
 
 
 ## Laegna Infinity Axiomatic System — Conclusion (Unified Infinity Landscape)
+
+![Laegna Infinity Axiomatic System — Unified Infinity Landscape](laegna_axiom_conclusion.png)
+
+![Laegna Infinity Axiomatic System — Unified Infinity Landscape](laegna_axiom_conclusion1.png)
+
+![Laegna Infinity Axiomatic System — Unified Infinity Landscape](laegna_axiom_conclusion.mp4)
+
+![Laegna Infinity Axiomatic System — Unified Infinity Landscape](laegna_axiom_conclusion1.mp4)
+
+![Laegna Infinity Axiomatic System — Unified Infinity Landscape](laegna_axiom_conclusion2.mp4)
 
 ```
 ![Laegna Infinity Axiomatic System — Unified Infinity Landscape](Images/laegna_axiom_conclusion.png)
