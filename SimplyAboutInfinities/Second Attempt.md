@@ -1,3 +1,5 @@
+![Simply About Infinities — Opening Conceptual Landscape](Images/sai_opening_landscape.png)
+
 # ➿ Infinity‑Weave  
 ### A Companion Resource to *Simply About Infinities — Second Attempt*  
 ### (with Two Parallel Entrances into the Weave)
@@ -142,6 +144,8 @@ I asked CoPilot for introduction
 # Simply About Infinities  
 ### Purified Foundations, Consolidated Units, and Closure of Infinite Branches
 
+![Laegna Infinity Axiomatic System — Unified Infinity Landscape](Images/laegna_axiom_conclusion.png)
+
 This repository is the **purification** of a long exploration spread across  
 multiple formats, branches, and external repositories.  
 It distills everything into **two essential ideas** — two *units* — and  
@@ -177,6 +181,8 @@ A triad of number‑interpretation systems:
 - **linear unit**  
 - **exponential unit**
 
+![Laegna Infinity Axiomatic System — Transformational Units](Images/laegna_axiom_unit1.png)
+
 These are not merely functions but **coordinate worlds**.  
 A number behaves differently depending on the unit, and infinity  
 appears differently in each.  
@@ -191,6 +197,8 @@ A finite range encoding **nested infinite structure**:
 - **T‑range** — base octave  
 - **R‑range** — exponential octave  
 
+![Laegna Infinity Axiomatic System — Discrete Infinities](Images/laegna_axiom_unit2.png)
+
 Each R‑value contains a compressed T‑range.  
 Operations expand into higher‑resolution spaces and then compress back.  
 This unit shows how infinite behavior can arise from finite, discrete  
@@ -201,6 +209,9 @@ structures.
 ## **Coherence Hint — The Relational Nature of Infinity**  
 Infinity is not a measurable magnitude but a **relation** preserved  
 across units.  
+
+![Laegna Infinity Axiomatic System — Relational Infinity](Images/laegna_axiom_coherence.png)
+
 Whether expressed through growth rates, discrete layers, or geometric  
 densities, the same relational structure appears.  
 This coherence is what allows all other branches to collapse into the  
@@ -224,6 +235,8 @@ Everything else is commentary, exploration, or historical scaffolding.
 This is the purified core.
 
 # Simply About Infinities
+
+![Laegna Infinity Axiomatic System — Discrete Infinities](Images/laegna_axiom_unit2B.png)
 
 This part:
 
@@ -803,6 +816,9 @@ infinity is not a runaway explosion —
 it is a balanced interaction of opposing tendencies.
 
 # ✦ Part 4 — cm‑Math and Identity in Parallel Space  
+
+![cm‑Math — Infinite Interior of a Finite Segment](Images/cm_infinite_interior.png)
+
 ### Why Infinite Sets Behave Consistently Only When Measured Through a Stable Unit
 
 When we measure something simple — like a line segment of 1 cm —  
@@ -978,6 +994,8 @@ This is the essence of parallel identity.
 ---
 
 ## ✦ 5. Why This Matters for Infinity
+
+![cm‑Math — Identity in Parallel Space](Images/cm_parallel_identity.png)
 
 Infinity cannot be measured directly.  
 But relations between infinities  
@@ -1316,3 +1334,5 @@ The possibilities are endless.
 
 Go turn a stone in your garden.  
 You may find a new infinity beneath it.
+
+![Simply About Infinities — Closing Unified Infinity](Images/sai_closing_unified.png)
