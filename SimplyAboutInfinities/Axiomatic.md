@@ -1,3 +1,7 @@
+![Laegna Infinity Axiomatic System — Unified Infinity Landscape](Images/laegna_axiom_conclusion.png)
+
+<br>
+
 # Axiomatic
 
 This is cut off from the main text, to write some explanations myself.
@@ -19,6 +23,8 @@ A triad of number‑interpretation systems:
 - **linear unit**  
 - **exponential unit**
 
+![Laegna Infinity Axiomatic System — Transformational Units](Images/laegna_axiom_unit1.png)
+
 These are not merely functions but **coordinate worlds**.  
 A number behaves differently depending on the unit, and infinity  
 appears differently in each.  
@@ -38,6 +44,8 @@ A finite range encoding **nested infinite structure**:
 - **T‑range** — base octave  
 - **R‑range** — exponential octave  
 
+![Laegna Infinity Axiomatic System — Discrete Infinities](Images/laegna_axiom_unit2.png)
+
 Each R‑value contains a compressed T‑range.  
 Operations expand into higher‑resolution spaces and then compress back.  
 This unit shows how infinite behavior can arise from finite, discrete  
@@ -53,6 +61,9 @@ structures.
 ## **Coherence Hint — The Relational Nature of Infinity**  
 Infinity is not a measurable magnitude but a **relation** preserved  
 across units.  
+
+![Laegna Infinity Axiomatic System — Relational Infinity](Images/laegna_axiom_coherence.png)
+
 Whether expressed through growth rates, discrete layers, or geometric  
 densities, the same relational structure appears.  
 This coherence is what allows all other branches to collapse into the  
