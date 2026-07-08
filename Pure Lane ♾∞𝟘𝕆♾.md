@@ -640,3 +640,45 @@ To do logic combinatorics or math projection through infinities:
   - Christianity: interaction occurs in class, in exponent scale, 2D, infinity, and person is infinitesimal of this.
   - Buddhism: interaction occurs in instance, in linear scale, 1D, finity, and whole is infinity of person.
   - Both: ((class <-> identity) <---> (infinity <-> identity)), which means Buddhist karma and Christianity are mathematically equal: by Dukkha, two bands are far and time-latency and poor synchronization means you need to calculate both basis: because reality feeds, and you feed it on both basis.
+
+---
+
+Me.
+
+PureLane infinities are inspired by Pure Lane Geometry - https://github.com/tambetvali/laGEOsis/blob/main/Alpha/Pure%20Lane.md.
+
+The geometry projects the opposite side of the ball:
+- You can use double-exponent, two-dimensional exponential growth natural to base-4 system, aligned to number digit growth, to close the ball: 180 to 360 degrees outwards acceleration space, how I would call hilbert's external space when we map: in regards to infinity, we map what appears like coordinate system of the local finity: it maps the symmetry outwards, and where equator starts logarithm, 1/4 shrinkback at straight point OOOO => AAAA (laegna wave number syntax); infinity starts exponent here: and the two scales given in math simulation at beginning of this document, first article, allow you to scale shrinkdown to zero into degree which does not go below 1, creating a linear, discrete system mapping at various precision modes by integer or better, laegna number whose digit coordinates map in value-symmetric space and allow the same matrix to be used inside digit values, and inside row-cell positioning, where each operation +-\*/ easily maps to number 1 positioned in value-space matrix, such as 2*2 for natural laegna base-4, which naturally fits 0, 1, 2, or 4 digit numbers, and in certain reverse counting allows 3 digits - up to 16 follow in advanced counting, in like 5 settings of signed and unsigned numbers, which are enough for base projections and atomic for further structures and essences.
+
+Essence can be computed:
+- Assume A is person called "Jane".
+- Say if A = Position or Posetion (Jane returns Posetion or Position) => A = Position.
+- Read in pessimistic logecs: if Jane has any hope, she assumes success / boundary optimist.
+
+Jane => Mary.
+
+Jane helps Mary. If Jane has positive energy, follows Mary has positive energy - this is a helpful relation. It's long-term, I-E scale satisfaction means activity is equivalent to wov-keeping, and what exactly means keeping a wov can be given.
+
+This is trivial:
+- If Jane means energy, it does not mean more physical energy exists, but rather the energy is a relation which keeps Jane sane. Because, metaphysically, if entity has energy means it's good in it's own terms - physically, Jane must be in her own form.
+  - Otherwise, energy business (elecricity, plants, homes) would sell bombs (to homes?). If we do not discern between various forms of energy, we are just creating iraq-like conditions out of this "equation", not spiritual. Our spirit is subjective, the form we give, and the form we take, but not the one after explosion: this is barely, subchemically, our remainders for cemestry, which is not home and not to be sold to homeless altough small, cheap positioning: vampires are exception, but also it seems to be self-handling thing and rather overconsumption of fantasy games - vampires live well inside archetypes.
+
+If objects long-term energy, and what is energy depends on it's definition in Laegna:
+- Z means it avoids loss: it tries to be alive.
+- X means it keeps stability: it does not get used to it.
+- Y means it seeks gain: it has some kind of axe, life is "better" or "worse", business is "up" or "down", country is "civilized" or "not" - and it's not existential, every combination initially exists, it's rather Dukkha that we are not in ideal world.
+
+We can use log, lin, exp scales mentally:
+- log scale is the particles we are made of - for example, why initial lane geometries exploded in their mathematical realm? CoPilot said zeroes and infinities, but it shaked it's whole context and exploded, in best terms with physical realms.
+  - now it's calibrated: but don't think it's me if it melts after long static still or instead, burns because keeping energy. Because I don't know the principle, which made up the continuous frames.
+
+This is it's oscillation-compability, light wave exactly: can explode if inference is not properly satisfied.
+
+Outwards:
+- Volume - this is the flow. Acceleration, 0D - flow to reach a dimensional treschold, right after end of Z, where X begins the linear minus infinity: from zero point. Life did not exist, even matter had tensions and existential fears of it's basic forms and symmetries.
+- Value - this is the end result, integral growth of flow, 1D. Speed.
+- Frequency - this is the half-octave zone, 2D. Directions to space boundaries.
+- Octave - this is the full-octave zone, 4D. Space boundaries appear formal, each space appears visible in relation to infinity.
+
+Number length R in laegna hologram numbers is calibrated to this.
+
