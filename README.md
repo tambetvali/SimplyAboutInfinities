@@ -1,8 +1,8 @@
-### Ball 7
+### Ball 9
 
-[Ball 7](Gfx/Ball7.png) from [InfinityTextured.md](https://github.com/tambetvali/SimplyAboutInfinities/blob/main/BallTextured.md):
+[Ball 9](Gfx/Ball9.png) from [InfinityTextured.md](https://github.com/tambetvali/SimplyAboutInfinities/blob/main/BallTextured.md):
 
-![Ball 7](Gfx/Ball7.png)
+![Ball 9](Gfx/Ball9.jpg)
 
 ## What is Laegna?
 
