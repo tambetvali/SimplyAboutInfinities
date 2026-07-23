@@ -2,6 +2,10 @@ Various AIs were asked to draw infinity on ball, using laegna-hilbert's complex 
 
 <br>
 
+![Ball 0](Gfx/Ball0.png)
+
+<br>
+
 ![Ball 1](Gfx/Ball1.png)
 
 <br>
