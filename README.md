@@ -1,3 +1,9 @@
+### Ball 6
+
+[Ball 6](Gfx/Ball6.png) from [InfinityTextured.md](https://github.com/tambetvali/SimplyAboutInfinities/blob/main/BallTextured.md):
+
+![Ball 6](Gfx/Ball6.png)
+
 ## What is Laegna?
 
 Laegna is a compact system of **logic, number structures, and reasoning modes** built around four core values — **I, O, A, E** — which describe how information moves, changes, and stabilizes.  
