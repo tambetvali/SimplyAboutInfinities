@@ -1,3 +1,5 @@
+![All Relations Hold](Gfx/AllRelationsHold.png)
+
 # Infinity - all relations hold
 
 Say you get limit value and it becomes "infinity". Instant, brutal stop, and however much *larger* you make your numbers, they seem to be guaranteed to fit in this boundary, within the normal function domain - claim which can break under it's own weight, when you state it properly.
