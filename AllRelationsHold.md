@@ -236,3 +236,11 @@ Representation 3:
 - Achievable is one octave up, logical operations are excess-compatible.
 
 This is like rotating, transforming and transcending the symbol of Dao - altough with Laegna Dao Symbol, you can do it in your own way.
+
+# Art - Symbol Of Zero
+
+![Infinity](Gfx/Infinity.png)
+
+<br>
+
+![Symbol Of Zero](Gfx/SymbolOfZero.png)
