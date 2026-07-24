@@ -90,6 +90,8 @@ Calculation:
 
 # All Relations Hold
 
+![All Relations Hold](Gfx/AllRelationsHold2.png)
+
 For example, exponent to linear:
 - 2 as exponent (i.e. 2 cm^2)
 - 1 as linear.
