@@ -17,3 +17,7 @@ Digit maps to infinity.
 Log has two plus infinities, because in infinity, logarithm becomes a deductive - evolution compressed to singleton as infinity grows.
 
 ![DigitFractalEvolution4](Graphics/DigitFractalEvolution4.png)
+
+# Spiritually
+
+![DigitFractalSpiritual5](Graphics/DigitFractalSpiritual5.png)
