@@ -21,3 +21,9 @@ Log has two plus infinities, because in infinity, logarithm becomes a deductive 
 # Spiritually
 
 ![DigitFractalSpiritual5](Graphics/DigitFractalSpiritual5.png)
+
+# Shamanism
+
+Buddhist, Taoist, Viking shaman Yggdrasil version.
+
+![DigitFractalShamanism6](Graphics/DigitFractalShamanism6.png)
