@@ -11,3 +11,9 @@ Digit maps to infinity.
 # Physically
 
 ![DigitFractalMaterial3](Graphics/DigitFractalMaterial3.png)
+
+# Evolutionarly
+
+Log has two plus infinities, because in infinity, logarithm becomes a deductive - evolution compressed to singleton as infinity grows.
+
+![DigitFractalEvolution4](Graphics/DigitFractalEvolution4.png)
